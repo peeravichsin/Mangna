@@ -19,5 +19,5 @@ options:
   -y, --years           Include year variants
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/peeravichsin/Mangna
 ```
