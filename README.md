@@ -3,6 +3,8 @@ Mangna is a tool that makes lists of possible passwords for Brute Force Attacks.
 
 Reference https://github.com/Th3S3cr3tAg3nt/Munge
 
+FACT "มั้งนะ" is a Thai word that means "maybe" in English.
+
 ```
 usage: mangna.py [-h] -i INPUT_FILE [-o OUTPUT_FILE] [-c] [-s] [-y]
 
